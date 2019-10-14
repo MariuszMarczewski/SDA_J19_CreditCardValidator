@@ -1,0 +1,9 @@
+namee;prefix;length
+Visa;4;16
+MasterCard;51;16
+MasterCard;52;16
+MasterCard;53;16
+MasterCard;54;16
+MasterCard;55;16
+AmericanExpress;34;15
+AmericanExpress;37;15
