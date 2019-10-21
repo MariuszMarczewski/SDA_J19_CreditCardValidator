@@ -4,7 +4,7 @@ import java.util.List;
 
 public class IssuerDetector {
 
-    private IssuerRuleRepository repository = new IssuerRuleInMemoryRepository();
+    private IssuerRuleRepository repository;
 
 
     public IssuerDetector() {

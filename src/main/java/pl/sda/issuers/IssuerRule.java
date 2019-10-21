@@ -1,12 +1,15 @@
 package pl.sda.issuers;
 
 public class IssuerRule {
-
     private String name;
     private String prefix;
     private int length;
 
-    public IssuerRule(String visa, String s, int i) {
+    public IssuerRule() {
+
+    }
+
+    public IssuerRule(String name, String prefix, int length) {
         this.name = name;
         this.prefix = prefix;
         this.length = length;
